@@ -1,0 +1,3 @@
+pages\BookingPage.class
+tests\BookingTest.class
+utils\TestBase.class
